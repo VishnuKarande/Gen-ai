@@ -1,3 +1,0 @@
-streamlit==1.27.2  # currently pinned to this version
-groq
-python-dotenv

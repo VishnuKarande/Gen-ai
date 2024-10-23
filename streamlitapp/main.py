@@ -99,7 +99,7 @@ for message in st.session_state.conversation:
         st.markdown(f"**Assistant:** {message['content']}")
 
 # Additional Streamlit widgets for beautification
-st.sidebar.header("Ronaldo App")
+st.sidebar.header("my App")
 st.sidebar.markdown('<div class="sidebar-text">This app allows you to ask questions about the legendary footballer Christiano Ronaldo. Feel free to explore and learn more about his career and achievements!</div>', unsafe_allow_html=True)
 
 # Add a footer
